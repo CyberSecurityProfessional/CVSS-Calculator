@@ -16,6 +16,14 @@ CVSS Environmental Score:
 Modified Impact Subscore:
 Overall CVSS Score:
 ```
+### Severity
+```
+Critical
+High
+Medium
+Low
+Informational
+```
 ### Metrics
 #### Base Score Metrics
 * Exploitability Metrics
