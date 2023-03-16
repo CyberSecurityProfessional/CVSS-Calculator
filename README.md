@@ -3,6 +3,19 @@ Research on CVSS calculators.
 ## CVSS Calculators
 * https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator
 * https://www.first.org/cvss/calculator/3.1
+```
+Versions: 3.0 and 3.1
+```
+### Score types
+```
+CVSS Base Score:
+Impact Subscore:
+Exploitability Subscore:
+CVSS Temporal Score:
+CVSS Environmental Score:
+Modified Impact Subscore:
+Overall CVSS Score:
+```
 ### Metrics
 #### Base Score Metrics
 * Exploitability Metrics
