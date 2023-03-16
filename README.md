@@ -32,4 +32,49 @@ Integrity Impact (I)*
 Availability Impact (A)*
 ```
 #### Temporal Score Metrics
+```
+Exploit Code Maturity (E)
+```
+```
+Remediation Level (RL)
+```
+```
+Report Confidence (RC)
+```
 #### Environmental Score Metrics
+* Exploitability Metrics
+```
+Attack Vector (MAV)
+```
+```
+Attack Complexity (MAC)
+```
+```
+Privileges Required (MPR)
+```
+```
+User Interaction (MUI)
+```
+```
+Scope (MS)
+```
+* Impact Metrics
+```
+Confidentiality Impact (MC)
+```
+```
+Integrity Impact (MI)
+```
+```
+Availability Impact (MA)
+```
+* Impact Subscore Modifiers
+```
+Confidentiality Requirement (CR)
+```
+```
+Integrity Requirement (IR)
+```
+```
+Availability Requirement (AR)
+```
